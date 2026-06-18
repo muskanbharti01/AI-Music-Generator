@@ -1,4 +1,4 @@
-# 🎵 AI Music Generator — CodeAlpha Internship Task 3
+# 🎵 AI Music Generator 
 
 > **Music Generation with AI** using LSTM-inspired architecture, built with Python & Streamlit
 
@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project implements **AI-driven music generation** for CodeAlpha's Artificial Intelligence Internship (Task 3). It uses a custom **LSTM-inspired deep learning architecture** built entirely in NumPy to generate unique MIDI music sequences across multiple genres and musical scales — all without requiring GPU or heavy ML frameworks.
+This project implements **AI-driven music generation** for Artificial Intelligence Internship (Task 3). It uses a custom **LSTM-inspired deep learning architecture** built entirely in NumPy to generate unique MIDI music sequences across multiple genres and musical scales — all without requiring GPU or heavy ML frameworks.
 
 ---
 
