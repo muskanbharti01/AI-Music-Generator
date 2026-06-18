@@ -1,5 +1,5 @@
 """
-🎵 AI Music Generator - CodeAlpha Task 3
+🎵 AI Music Generator 
 Built with: Python, NumPy, LSTM (via pure NumPy), MIDIUtil, Streamlit
 Author: Muskan Bharti
 """
