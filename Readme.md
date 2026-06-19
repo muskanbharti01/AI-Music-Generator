@@ -138,8 +138,7 @@ CodeAlpha_MusicGenerationAI/
 
 ## 👩‍💻 Author
 
-**Muskan Bharti**  
-B.Tech CSE (Networks), GEC Kaimur — Batch 2023–2027  
+**Muskan Bharti**   
 🔗 [LinkedIn](www.linkedin.com/in/muskanbhartii) | 🐙 [GitHub](https://github.com/muskanbharti01)
 
 
